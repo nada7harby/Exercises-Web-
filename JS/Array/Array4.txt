@@ -1,0 +1,72 @@
+
+
+Exercise 36: Array Reverse and Rotation
+1. Create an array of numbers.
+2. Reverse the order of the array.
+3. Rotate the array to the right by a specific number of positions.
+4. Rotate the array to the left by a different number of positions.
+5. Compare the results of reversing and rotating the array.
+
+Exercise 37: Array Manipulation (Intermediate)
+1. Create two arrays of equal length.
+2. Merge the two arrays into one, alternating elements from each.
+3. Reverse the merged array.
+4. Remove every third element from the reversed array.
+5. Calculate the sum of the remaining elements.
+
+Exercise 38: Array Chunking (Advanced)
+1. Create an array of words.
+2. Split the array into chunks based on the total character count per chunk (e.g., chunks with <= 15 characters).
+3. Handle cases where a word exceeds the allowed chunk size.
+4. Flatten the chunked arrays back into a single array.
+5. Count the number of words in each chunk.
+
+Exercise 39: Array Transformation with `reduce()`
+1. Create an array of transactions (objects with a type and amount).
+2. Calculate the total balance by using the `reduce()` method.
+3. Find the largest transaction amount in the array.
+4. Find the smallest transaction amount in the array.
+5. Create a summary object with the total, average, and number of transactions.
+
+Exercise 40: Array Searching and Sorting (Advanced)
+1. Create an array of user objects with names and ages.
+2. Find the oldest user(s) in the array.
+3. Sort the users by age in descending order.
+4. Find the user(s) with the most common age.
+5. Calculate the median age of the users in the array.
+
+Exercise 41: Array of Dates (Advanced)
+1. Create an array of random dates.
+2. Find the earliest date in the array.
+3. Find the latest date in the array.
+4. Calculate the time difference between two specific dates.
+5. Sort the dates in chronological order.
+
+Exercise 42: Array Flattening and Mapping
+1. Create a nested array with multiple levels.
+2. Flatten the nested array using a custom function.
+3. Map the flattened array to double each element.
+4. Filter the elements to keep only those divisible by 3.
+5. Sum the filtered elements and print the result.
+
+Exercise 43: Array Grouping
+1. Create an array of objects with categories.
+2. Group the objects by category into a new array of arrays.
+3. Calculate the average value for each category.
+4. Find the category with the highest average.
+5. Flatten the grouped data into a single array of objects.
+
+Exercise 44: Array Transformation with `flatMap()`
+1. Create an array of words.
+2. Use the `flatMap()` method to split each word into characters.
+3. Filter out the vowels from the characters.
+4. Count the number of vowels in the array.
+5. Join the remaining characters back into words.
+
+Exercise 45: Array Frequency Count (Advanced)
+1. Create an array of items with various types.
+2. Count the frequency of each item type in the array.
+3. Find the most frequent item type and its count.
+4. Find the least frequent item type and its count.
+5. Create a summary of item frequencies in a readable format.
+

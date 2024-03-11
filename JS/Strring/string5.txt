@@ -1,0 +1,81 @@
+
+Exercise 21: String Slicing
+
+1. Create a variable `sentence` and assign it a long sentence.
+2. Slice the first 10 characters from `sentence`.
+3. Slice the last 10 characters from `sentence`.
+4. Extract a substring starting from the 20th character and ending at the 30th character.
+5. Slice the sentence into an array of words.
+
+Exercise 22: String Comparison
+
+1. Create two variables, `str1` and `str2`, and assign them different strings.
+2. Compare `str1` and `str2` to check if they are equal.
+3. Compare `str1` and `str2` in a case-insensitive manner.
+4. Check if `str1` starts with a specific prefix.
+5. Check if `str2` ends with a specific suffix.
+
+Exercise 23: Word Manipulation
+
+1. Create a variable `text` and assign it a sentence with repeated words.
+2. Find and display the first occurrence of a specific word in `text`.
+3. Remove all occurrences of that word from `text`.
+4. Count and display the total number of words in `text`.
+5. Replace all spaces in `text` with newline characters ("\n").
+
+Exercise 24: String Encoding and Decoding
+
+1. Create a variable `originalString` and assign it a string.
+2. Encode `originalString` using Base64 encoding.
+3. Decode the Base64 encoded string back to its original form.
+4. Create a URL-friendly version of `originalString` using encodeURIComponent.
+5. Decode the URL-encoded string using decodeURIComponent.
+
+Exercise 25: String Splitting and Joining
+
+1. Create a variable `csv` and assign it a comma-separated string (e.g., "apple,banana,orange").
+2. Split `csv` into an array of fruits.
+3. Join the array of fruits into a new comma-separated string.
+4. Create a variable `path` and assign it a file path (e.g., "/folder/subfolder/file.txt").
+5. Split `path` into an array representing the directory structure.
+
+Exercise 26: Character Counting
+
+1. Create a variable `inputString` and assign it a string.
+2. Count and display the occurrences of each character in `inputString`.
+3. Find and display the character with the highest frequency in `inputString`.
+4. Remove all spaces and count the occurrences of each non-space character.
+5. Check if `inputString` contains only alphanumeric characters.
+
+Exercise 27: String Truncation
+
+1. Create a variable `longText` and assign it a long paragraph.
+2. Truncate `longText` to a specific length, preserving full words.
+3. Truncate `longText` to a specific length and add an ellipsis ("...") at the end.
+4. Truncate `longText` to the nearest sentence boundary.
+5. Check if `longText` has been truncated.
+
+Exercise 28: Text Searching
+
+1. Create a variable `text` and assign it a text containing multiple occurrences of a word.
+2. Find and display all occurrences of that word in `text` along with their positions.
+3. Highlight all occurrences of that word in `text` by wrapping them in `<span>` tags.
+4. Create a function that counts the occurrences of a given word in a text.
+5. Find and display the longest word in `text`.
+
+Exercise 29: String Reversal and Palindrome
+
+1. Create a variable `word` and assign it a single word.
+2. Reverse the characters in `word`.
+3. Check if the reversed `word` is the same as the original (a palindrome).
+4. Create a function that checks if a string is a palindrome.
+5. Find the longest palindrome substring in a sentence.
+
+Exercise 30: String Rotation and Substitution
+
+1. Create a variable `str` and assign it a string.
+2. Rotate the characters in `str` by a specific number of positions (e.g., shift all characters one position to the left).
+3. Create a function that performs a Caesar cipher on a string (shifts characters by a fixed number).
+4. Substitute specific characters in `str` with other characters.
+5. Create a function that swaps the positions of two words in a sentence.
+

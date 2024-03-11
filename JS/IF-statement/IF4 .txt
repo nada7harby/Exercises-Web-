@@ -1,0 +1,107 @@
+
+
+Exercise 31: Mobile Plan Selector
+1. Create a program that recommends a mobile plan based on a user's needs (data usage, talk time).
+2. Use `if` statements to match user preferences with available plans.
+3. Display the recommended plan and its features.
+4. Allow the user to input their preferences.
+5. Handle cases where there's no suitable plan.
+
+Exercise 32: Discount Calculator
+1. Build a discount calculator that calculates the total price of items in a shopping cart.
+2. Use `if` statements to apply discounts based on the total purchase amount.
+3. Prompt the user to enter the item prices and quantities.
+4. Display the final discounted total.
+5. Include tiered discounts.
+
+Exercise 33: BMI Category Classifier
+1. Write a program that classifies individuals into BMI categories (underweight, normal, overweight, obese).
+2. Use `if` statements to determine BMI categories based on height and weight.
+3. Prompt the user to enter their height (in meters) and weight (in kilograms).
+4. Display the BMI category and provide explanations.
+5. Include BMI category thresholds.
+
+Exercise 34: Simple ATM Machine
+1. Create a simple ATM machine simulator.
+2. Use `if` statements to check account balance and validate PIN.
+3. Allow the user to withdraw cash or check the account balance.
+4. Display the transaction outcome.
+5. Include multiple accounts with different balances.
+
+Exercise 35: Temperature Conversion
+1. Build a program that converts temperatures between Fahrenheit and Celsius.
+2. Use `if` statements to determine the conversion direction.
+3. Prompt the user to enter a temperature value and scale (Fahrenheit or Celsius).
+4. Display the converted temperature.
+5. Handle cases where the user enters an invalid scale.
+
+Exercise 36: Color Mixer
+1. Create a program that mixes two primary colors (red, blue, yellow) to produce a secondary color (green, purple, orange).
+2. Use `if` statements to determine the result of the color mixing.
+3. Prompt the user to select two primary colors.
+4. Display the resulting secondary color.
+5. Include explanations for color mixing rules.
+
+Exercise 37: Number Comparison
+1. Write a program that compares three numbers and determines their relationship (equal, all different, or partially equal).
+2. Use `if` statements to analyze the numbers.
+3. Prompt the user to enter the three numbers.
+4. Display the comparison result.
+5. Include explanations for different outcomes.
+
+Exercise 38: Voting Age Checker
+1. Develop a program that checks if a person is eligible to vote based on their age and citizenship.
+2. Use `if` statements to determine eligibility criteria.
+3. Prompt the user to enter their age and citizenship status.
+4. Display a message indicating whether the person is eligible to vote or not.
+5. Explain the eligibility criteria.
+
+Exercise 39: Credit Score Classifier
+1. Create a program that classifies credit scores into different categories (poor, fair, good, excellent).
+2. Use `if` statements to determine the credit score category.
+3. Prompt the user to enter their credit score.
+4. Display the credit score category and provide explanations.
+5. Include score ranges for each category.
+
+Exercise 40: User Profile Customizer
+1. Develop a user profile customizer that offers customization options (theme color, font size).
+2. Use `if` statements to apply user-selected customizations.
+3. Prompt the user to select customization options.
+4. Display a preview of the customized profile.
+5. Allow users to reset to default settings.
+
+Exercise 41: Library Book Rental
+1. Simulate a library book rental system with different types of books (fiction, non-fiction).
+2. Use `if` statements to determine rental rules and fees.
+3. Prompt the user to select a book type and rental duration.
+4. Display the rental cost and due date.
+5. Implement fine calculations for late returns.
+
+Exercise 42: Tax Calculator
+1. Build a program that calculates income tax based on annual income and tax brackets.
+2. Use `if` statements to determine the applicable tax rate.
+3. Prompt the user to enter their annual income.
+4. Display the calculated income tax.
+5. Include multiple tax brackets with different rates.
+
+Exercise 43: Student Grade Analyzer
+1. Create a program that analyzes student grades and calculates statistics (average, highest, lowest).
+2. Use `if` statements to identify failing grades.
+3. Prompt the user to enter student grades.
+4. Display statistics and identify failing students.
+5. Handle edge cases, such as empty grade lists.
+
+Exercise 44: Delivery Service
+1. Develop a program for a delivery service that calculates delivery fees based on distance and order amount.
+2. Use `if` statements to determine delivery fees.
+3. Prompt the user to enter the order amount and delivery distance.
+4. Display the calculated delivery fee.
+5. Include promotions or discounts.
+
+Exercise 45: Guess the Number Game
+1. Create a "Guess the Number" game where the computer generates a random number, and the user tries to guess it.
+2. Use `if` statements to provide hints (too high, too low) to the user.
+3. Keep track of the number of attempts.
+4. Display a congratulatory message when the user guesses correctly.
+5. Allow the user to play multiple rounds.
+

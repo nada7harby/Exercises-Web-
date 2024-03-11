@@ -1,0 +1,106 @@
+
+Exercise 16: Password Strength Checker
+1. Create a function that checks the strength of a user's password.
+2. Use `if` statements to assess password criteria (length, complexity).
+3. Prompt the user to enter a password and validate it.
+4. Display a message indicating the password strength (weak, medium, strong).
+5. Provide guidelines for a strong password.
+
+Exercise 17: Day and Time-Based Greetings
+1. Write a function that displays a greeting message based on the time of day (morning, afternoon, evening).
+2. Use `if` statements to determine the appropriate greeting.
+3. Include a dynamic greeting that changes with the time.
+4. Display a personalized message, including the user's name.
+5. Handle cases where the user doesn't provide a name.
+
+Exercise 18: Number Sorting
+1. Create a function that sorts three numbers in ascending order.
+2. Use `if` statements to compare and rearrange the numbers.
+3. Prompt the user to enter three numbers and validate the input.
+4. Display the sorted numbers.
+5. Handle cases where two or more numbers are equal.
+
+Exercise 19: Password Reset
+1. Simulate a password reset system.
+2. Use `if` statements to verify the user's identity (username and security questions).
+3. Prompt the user to enter their username and answer security questions.
+4. Display a message indicating if the reset was successful or not.
+5. Include predefined security questions and answers.
+
+Exercise 20: Credit Card Validator
+1. Build a function that validates credit card numbers using the Luhn algorithm.
+2. Use `if` statements to check if the card number is valid or not.
+3. Prompt the user to enter a credit card number and validate the input.
+4. Display a message indicating whether the card is valid or not.
+5. Explain the Luhn algorithm.
+
+Exercise 21: User Role Authorization
+1. Create a simple user role authorization system.
+2. Use `if` statements to check if a user has permission to access a specific resource.
+3. Define user roles and permissions.
+4. Prompt the user to enter their role and the resource they want to access.
+5. Display a message indicating whether access is granted or denied.
+
+Exercise 22: Voting Eligibility Checker
+1. Develop a function that checks if a person is eligible to vote based on age and citizenship.
+2. Use `if` statements to determine eligibility criteria.
+3. Prompt the user to enter their age and citizenship status.
+4. Display a message indicating whether the person is eligible to vote or not.
+5. Include explanations for eligibility criteria.
+
+Exercise 23: Ticket Price Calculator
+1. Build a function that calculates the ticket price for a movie based on age and time of the movie.
+2. Use `if` statements to determine the ticket price rules.
+3. Prompt the user to enter their age and the movie time.
+4. Display the calculated ticket price.
+5. Include price variations based on different age groups and time slots.
+
+Exercise 24: Delivery Fee Calculator
+1. Create a function that calculates the delivery fee based on distance and order total.
+2. Use `if` statements to define delivery fee rules.
+3. Prompt the user to enter the distance and order total.
+4. Display the calculated delivery fee.
+5. Include discounts or free delivery thresholds.
+
+Exercise 25: Language Translator
+1. Build a simple language translator that translates English phrases to another language (e.g., Spanish).
+2. Use `if` statements to map English phrases to their translations.
+3. Prompt the user to enter an English phrase and validate it.
+4. Display the translated phrase.
+5. Include translations for common phrases.
+
+Exercise 26: Inventory Management
+1. Simulate an inventory management system for a store.
+2. Use `if` statements to check product availability and inventory levels.
+3. Prompt the user to enter a product code and quantity to purchase.
+4. Display a message indicating if the purchase is successful or not.
+5. Update inventory levels accordingly.
+
+Exercise 27: Ticket Booking System
+1. Create a simple ticket booking system for events.
+2. Use `if` statements to check seat availability and pricing.
+3. Prompt the user to select an event, date, and number of tickets.
+4. Display a message indicating if the booking is confirmed or not.
+5. Keep track of available seats and total revenue.
+
+Exercise 28: Temperature Alert System
+1. Develop a temperature alert system that warns users about extreme temperatures.
+2. Use `if` statements to set temperature thresholds (e.g., too hot, too cold).
+3. Prompt the user to enter the current temperature.
+4. Display an appropriate alert message based on the temperature.
+5. Include guidelines for staying safe in extreme temperatures.
+
+Exercise 29: User Access Control
+1. Create a user access control system for a secure area.
+2. Use `if` statements to check user access levels.
+3. Define user roles and access permissions.
+4. Prompt the user to enter their username and password.
+5. Display a message indicating if access is granted or denied.
+
+Exercise 30: Restaurant Menu
+1. Develop a restaurant menu system that displays menu items and prices.
+2. Use `if` statements to categorize menu items (appetizers, mains, desserts).
+3. Prompt the user to select a menu category and an item.
+4. Display the selected item and its price.
+5. Calculate the total bill for the user's order.
+

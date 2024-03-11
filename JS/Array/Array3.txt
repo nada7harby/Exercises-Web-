@@ -1,0 +1,72 @@
+
+
+Exercise 26: Array Intersection and Difference
+1. Create two arrays with overlapping elements.
+2. Find the intersection of the two arrays (common elements).
+3. Find the elements unique to each array (difference).
+4. Calculate the union of the two arrays (combined elements).
+5. Sort the union array in ascending order.
+
+Exercise 27: Array Transformation with `map()`
+1. Create an array of temperatures in Celsius.
+2. Use the `map()` method to convert the temperatures to Fahrenheit.
+3. Use another `map()` to round the Fahrenheit values to two decimal places.
+4. Create a new array with temperature descriptions (e.g., "Hot" or "Cold").
+5. Print the transformed data in a readable format.
+
+Exercise 28: Array Splitting and Joining
+1. Create a sentence as a string.
+2. Split the sentence into an array of words.
+3. Use the `join()` method to concatenate the words into a sentence.
+4. Split the sentence again using a different delimiter (e.g., "-").
+5. Join the split sentence back together with spaces.
+
+Exercise 29: Array Sum and Product
+1. Create an array of numbers.
+2. Calculate the sum of all numbers in the array.
+3. Calculate the product of all numbers in the array.
+4. Use the `reduce()` method to find the maximum number in the array.
+5. Use the `reduce()` method to find the minimum number in the array.
+
+Exercise 30: Array Sorting with Custom Logic
+1. Create an array of objects representing books (with title and author).
+2. Sort the books by author's last name in ascending order.
+3. Sort the books by title in descending order.
+4. Create a custom sorting function to sort by publication year.
+5. Combine the sorting criteria to achieve a specific sorting order.
+
+Exercise 31: Array Splicing and Insertion
+1. Create an array of fruits.
+2. Use the `splice()` method to remove a specific fruit.
+3. Use `splice()` to insert a new fruit at a specific position.
+4. Use `splice()` to replace a fruit with a different one.
+5. Use `splice()` to add multiple fruits at once.
+
+Exercise 32: Array Frequency Count
+1. Create an array of numbers with repeated values.
+2. Count the frequency of each number in the array.
+3. Find the most frequent number and its count.
+4. Find the least frequent number and its count.
+5. Create a histogram representing the number frequencies.
+
+Exercise 33: Array Filtering with Multiple Criteria
+1. Create an array of objects representing products (with name, price, and category).
+2. Filter products that are in a specific price range.
+3. Filter products that belong to a specific category.
+4. Combine multiple filters to find expensive electronics.
+5. Find the average price of the filtered products.
+
+Exercise 34: Array Pagination
+1. Create an array of items.
+2. Implement pagination by displaying a specific number of items per page.
+3. Create a function to navigate to the next and previous pages.
+4. Display the current page number and total pages.
+5. Handle edge cases like navigating beyond the available pages.
+
+Exercise 35: Array Deduplication
+1. Create an array with duplicate elements.
+2. Remove duplicates to create a new array with unique elements.
+3. Maintain the original order of elements while removing duplicates.
+4. Use the `Set` object to deduplicate the array.
+5. Compare the performance of the two deduplication methods.
+

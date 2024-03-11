@@ -1,0 +1,106 @@
+
+Exercise 1: Array Basics
+1. Create an empty array.
+2. Add three elements to the array.
+3. Access and print the second element of the array.
+4. Check if the array is empty.
+5. Remove the last element from the array.
+
+Exercise 2: Array Methods
+1. Create an array with five different fruits.
+2. Add two more fruits to the end of the array.
+3. Remove the third fruit from the array.
+4. Find the index of "apple" in the array.
+5. Check if "banana" is included in the array.
+
+Exercise 3: Array Iteration
+1. Create an array of numbers from 1 to 10.
+2. Use a loop to print each number in the array.
+3. Create a new array with the square of each number.
+4. Filter the numbers greater than 5 into a new array.
+5. Sum all the numbers in the original array.
+
+Exercise 4: Array Sorting
+1. Create an array of random numbers.
+2. Sort the numbers in ascending order.
+3. Sort the numbers in descending order.
+4. Sort an array of strings in alphabetical order.
+5. Sort an array of objects by a specific property.
+
+Exercise 5: Array Manipulation
+1. Create two arrays and concatenate them into a single array.
+2. Extract a portion of the array using the slice method.
+3. Add an element to the beginning of the array.
+4. Remove an element from the middle of the array.
+5. Reverse the order of the array.
+
+Exercise 6: Array Searching
+1. Create an array of names.
+2. Find the first name that starts with 'J'.
+3. Find the index of the last name that starts with 'A'.
+4. Check if all names have at least 5 characters.
+5. Find the shortest name in the array.
+
+Exercise 7: Array Transformation
+1. Create an array of numbers.
+2. Map the array to double each number.
+3. Filter out numbers greater than 10.
+4. Reduce the array to calculate the sum of all numbers.
+5. Convert the numbers to strings using the toString method.
+
+Exercise 8: Multi-Dimensional Arrays
+1. Create a multi-dimensional array (matrix).
+2. Access and print an element from the matrix.
+3. Iterate through the rows of the matrix.
+4. Flatten the matrix into a 1D array.
+5. Find the sum of all elements in the matrix.
+
+Exercise 9: Array Deletion
+1. Create an array of colors.
+2. Remove the first color from the array.
+3. Remove the last color from the array.
+4. Remove a specific color from the array.
+5. Clear all elements from the array.
+
+Exercise 10: Array Copying
+1. Create an array of fruits.
+2. Create a shallow copy of the array using the spread operator.
+3. Create a deep copy of the array using JSON.parse and JSON.stringify.
+4. Modify the original array and observe changes in the copies.
+5. Compare the equality of the original and copied arrays.
+
+Exercise 11: Unique Values
+1. Create an array with duplicate values.
+2. Remove duplicate values to get a unique array.
+3. Count the occurrences of each unique value.
+4. Find the most frequent value in the array.
+5. Find the least frequent value in the array.
+
+Exercise 12: Array Intersection and Union
+1. Create two arrays with some common elements.
+2. Find the intersection of the two arrays.
+3. Find the union of the two arrays.
+4. Find elements unique to each array (symmetric difference).
+5. Check if one array is a subset of the other.
+
+Exercise 13: String to Array and Array to String
+1. Create a string of words separated by spaces.
+2. Split the string into an array of words.
+3. Join the array of words back into a single string.
+4. Convert a string of comma-separated values to an array.
+5. Convert an array of words into a sentence.
+
+Exercise 14: Array of Objects
+1. Create an array of person objects with name and age.
+2. Filter the adults (age 18 and above) into a new array.
+3. Find the youngest person in the array.
+4. Sort the array by age in ascending order.
+5. Calculate the average age of all persons in the array.
+
+Exercise 15: Array Manipulation (Advanced)
+1. Create an array of numbers.
+2. Group the numbers into subarrays of even and odd numbers.
+3. Calculate the sum of each subarray.
+4. Find the subarray with the largest sum.
+5. Modify the original array to contain only unique elements.
+

@@ -1,0 +1,81 @@
+
+Exercise 1: Basic For Loop
+
+1. Create a for loop that counts from 1 to 10 and logs each number to the console.
+2. Modify the loop to count from 10 to 1 instead.
+3. Create a loop that counts from 1 to 20 by increments of 2.
+4. Calculate the sum of all numbers from 1 to 100 using a loop.
+5. Create a loop that prints the square of each number from 1 to 5.
+
+Exercise 2: Nested Loops
+
+1. Create a nested loop that prints a 5x5 grid of asterisks.
+2. Modify the grid to print numbers from 1 to 25.
+3. Create a multiplication table using nested loops for numbers from 1 to 10.
+4. Print a pattern of right-angled triangles using nested loops.
+5. Create a chessboard pattern using nested loops (8x8 grid).
+
+Exercise 3: Loop Control Statements
+
+1. Use a for loop to print all even numbers from 1 to 20.
+2. Use a while loop to find the first multiple of 7 greater than 100.
+3. Create a loop that stops when the sum of numbers from 1 to n is greater than 1000.
+4. Use a loop to find and print the factorial of a given number.
+5. Create a loop that iterates through an array and breaks when a specific condition is met.
+
+Exercise 4: Looping Over Arrays
+
+1. Create an array of fruits and use a for loop to print each fruit's name.
+2. Calculate the sum of all numbers in an array using a loop.
+3. Find the largest number in an array using a loop.
+4. Create a loop to find and print all even numbers in an array.
+5. Use a loop to count the occurrences of a specific item in an array.
+
+Exercise 5: Looping Over Objects
+
+1. Create an object with key-value pairs representing student names and their scores.
+2. Use a for...in loop to print each student's name and score.
+3. Calculate the average score of the students in the object.
+4. Find the student with the highest score using a for...in loop.
+5. Modify the object to include a new student and score.
+
+Exercise 6: Looping with Break and Continue
+
+1. Create a loop that prints numbers from 1 to 10 but skips the number 5 using continue.
+2. Use a loop to search for a specific element in an array and break when found.
+3. Create a loop that prints numbers from 1 to 20 but breaks when a number is divisible by both 3 and 5.
+4. Use a loop to find and print the first prime number greater than 10.
+5. Create a loop that finds the smallest number in an array but stops if it's less than 5.
+
+Exercise 7: Looping with Do-While
+
+1. Create a do-while loop that counts from 1 to 5.
+2. Modify the loop to execute at least once, even if the condition is false initially.
+3. Use a do-while loop to prompt the user for a password until they enter the correct one.
+4. Create a do-while loop to simulate rolling a dice until a 6 is rolled.
+5. Implement a menu system with a do-while loop where the user can choose options.
+
+Exercise 8: Looping with For...Of
+
+1. Create an array of names and use a for...of loop to print each name.
+2. Calculate the sum of all numbers in an array using a for...of loop.
+3. Find the largest number in an array using a for...of loop.
+4. Create a loop to find and print all even numbers in an array using for...of.
+5. Use a for...of loop to iterate over the characters in a string and count the vowels.
+
+Exercise 9: Looping with For...In (Objects)
+
+1. Create an object with key-value pairs representing book titles and their authors.
+2. Use a for...in loop to print each book title and author.
+3. Calculate the total number of books in the object.
+4. Find and print books written by a specific author using for...in.
+5. Modify the object to include new book titles and authors.
+
+Exercise 10: Looping with Map, Filter, and Reduce
+
+1. Create an array of numbers and use the map function to square each number.
+2. Filter an array to find and print all even numbers using the filter function.
+3. Use the reduce function to find the sum of numbers in an array.
+4. Create an array of strings and use map to capitalize the first letter of each string.
+5. Filter an array of objects to find and print objects with a specific property value.
+

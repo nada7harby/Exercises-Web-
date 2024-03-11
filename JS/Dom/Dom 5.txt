@@ -1,0 +1,106 @@
+
+
+Exercise 1: Modifying Text Content
+1. Create an HTML element with the ID "myElement."
+2. Change the text content of "myElement" to "Hello, World!"
+3. Change the text color of "myElement" to red.
+4. Make the text in "myElement" bold.
+5. Append a new paragraph element with the text "This is a new paragraph" to the body of the document.
+
+Exercise 2: Handling Click Events
+1. Create a button element with the ID "myButton."
+2. Add a click event listener to "myButton" that alerts "Button clicked!" when clicked.
+3. Change the button text to "Click me!"
+4. Create a div element with the ID "myDiv."
+5. Add a click event listener to "myDiv" that changes its background color to blue when clicked.
+
+Exercise 3: Creating and Appending Elements
+1. Create an unordered list (ul) with the ID "myList."
+2. Using JavaScript, append three list items (li) to "myList" with different text content.
+3. Create a new heading element (h2) with the text "My Heading."
+4. Append the heading to the body of the document.
+5. Create an image element and set its source to a placeholder image. Append it to a div with the ID "imageContainer."
+
+Exercise 4: Modifying Styles
+1. Select an element with the ID "styleMe."
+2. Change the background color to green.
+3. Increase the font size to 24px.
+4. Add a border with a 2px solid red.
+5. Center align the text inside the element.
+
+Exercise 5: Form Manipulation
+1. Create a form element with an input field and a submit button.
+2. Add a submit event listener to the form that prevents the default form submission and logs the input value to the console.
+3. Add a required attribute to the input field.
+4. Style the submit button with a background color of blue and white text.
+5. Reset the form when the reset button is clicked.
+
+Exercise 6: Selecting and Deleting Elements
+1. Create a list of items (e.g., ul with multiple li elements).
+2. Add a click event listener to each list item that alerts its index when clicked.
+3. Add a "Delete" button next to each list item.
+4. Clicking the "Delete" button should remove the corresponding list item.
+5. Add a "Delete All" button that clears all list items when clicked.
+
+Exercise 7: Creating a Dropdown Menu
+1. Create a select element (dropdown) with at least three options.
+2. Add a change event listener to the select element that alerts the selected option.
+3. Create a div below the dropdown to display the selected option's content.
+4. Update the div's content when an option is selected.
+
+Exercise 8: Local Storage
+1. Create an input field and a button.
+2. Store the input value in local storage when the button is clicked.
+3. Retrieve and display the stored value when the page loads.
+4. Add a "Clear" button that clears the stored value from local storage.
+5. Ensure that the stored value persists across page refreshes.
+
+Exercise 9: Creating a To-Do List
+1. Create an input field for adding tasks and a button to add them.
+2. Append new tasks as list items to an unordered list (ul).
+3. Add a "Delete" button next to each task that removes it when clicked.
+4. Add a "Complete" button next to each task that marks it as done when clicked.
+5. Style completed tasks differently from pending tasks.
+
+Exercise 10: Creating Tabs
+1. Create a set of tabs using HTML and CSS.
+2. Add JavaScript functionality to switch between tabs when clicked.
+3. Highlight the active tab.
+4. Display the content associated with the active tab while hiding others.
+5. Ensure the first tab is active by default.
+
+Exercise 11: Creating a Image Slider
+1. Create an image slider with at least three images.
+2. Add "Previous" and "Next" buttons to navigate between images.
+3. Implement a circular loop, so going from the last image to the next shows the first image.
+4. Add a caption below each image that updates with the current image description.
+5. Implement automatic image sliding with a delay.
+
+Exercise 12: Creating a Modal
+1. Create a button that opens a modal when clicked.
+2. The modal should have a close button to close it.
+3. Add an event listener to open the modal when the button is clicked.
+4. Close the modal when the close button or outside the modal is clicked.
+5. Prevent background scrolling when the modal is open.
+
+Exercise 13: Fetching Data from an API
+1. Fetch data from a public API (e.g., JSONPlaceholder).
+2. Display the fetched data on the page (e.g., as a list or table).
+3. Add a button to refresh the data.
+4. Handle errors and display a message if the API request fails.
+5. Add loading indicators while waiting for data.
+
+Exercise 14: Drag and Drop
+1. Create a list of draggable elements.
+2. Implement drag-and-drop functionality to reorder the list items.
+3. Highlight the dragged element during the drag operation.
+4. Update the order of elements when dropped.
+5. Add a "Reset" button to restore the original order.
+
+Exercise 15: Creating a Countdown Timer
+1. Create an input field for setting a countdown time.
+2. Add a "Start" button to initiate the countdown.
+3. Display the remaining time as it counts down.
+4. Disable the input field and button during the countdown.
+5. Alert a message when the countdown reaches zero.
+

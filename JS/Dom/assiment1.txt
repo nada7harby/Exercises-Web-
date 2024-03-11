@@ -1,0 +1,31 @@
+
+Exercise 1: Selecting Elements
+1. Select an element with the ID "myElement".
+2. Select all elements with the class "highlight".
+3. Select all anchor (a) elements with the href attribute starting with "https://".
+
+Exercise 2: Modifying Elements
+4. Change the text content of an element with the ID "changeMe" to "New Text".
+5. Change the background color of a button with the class "btn" to red.
+6. Add a new paragraph element with some text to the end of the body.
+
+Exercise 3: Creating Elements
+7. Create a new div element and append it to an existing element.
+8. Create a new list item and add it to an unordered list.
+
+Exercise 4: Removing Elements
+9. Remove an element with the ID "removeMe".
+10. Remove all elements with the class "removeable".
+
+Exercise 5: Event Handling
+11. Add a click event listener to a button with the ID "clickMe" that alerts "Button clicked!" when clicked.
+12. Create a form with an input field and a submit button. Prevent the form from submitting when the button is clicked and instead display the input value in an alert.
+
+Exercise 6: Styling Elements
+13. Toggle a CSS class on a button with the ID "toggleBtn" to change its appearance.
+14. Change the font size of all paragraphs on the page.
+
+Exercise 7: Traversing the DOM
+15. Find the parent element of an element with the ID "childElement".
+16. Find all siblings of an element with the class "sibling".
+17. Find the first and last child elements of an element with the class "parent".

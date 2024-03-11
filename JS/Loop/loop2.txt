@@ -1,0 +1,82 @@
+
+
+Exercise 11: Looping with For...Of (Arrays)
+
+1. Create an array of numbers and use a for...of loop to calculate and print the square of each number.
+2. Filter the array to get only the odd numbers using for...of and print them.
+3. Create an array of names and use a for...of loop to print each name in reverse order.
+4. Use for...of to iterate over an array of sentences and find the longest sentence.
+5. Create an array of numbers and use for...of to find the product of all numbers in the array.
+
+Exercise 12: Looping with For...In (Objects)
+
+1. Create an object with key-value pairs representing student names and their ages.
+2. Use a for...in loop to print each student's name and age.
+3. Calculate the average age of the students in the object using for...in.
+4. Find the student with the highest age using a for...in loop.
+5. Modify the object to include a new student and age.
+
+Exercise 13: Looping with While Loop
+
+1. Create a while loop that counts from 1 to 10 and logs each number to the console.
+2. Modify the loop to count from 10 to 1 instead.
+3. Create a loop that counts from 1 to 20 by increments of 2 using a while loop.
+4. Calculate the sum of all numbers from 1 to 100 using a while loop.
+5. Create a while loop that prints the square of each number from 1 to 5.
+
+Exercise 14: Nested Loops (Pattern Printing)
+
+1. Create a nested loop to print a right-angled triangle of asterisks.
+2. Modify the pattern to print an upside-down right-angled triangle.
+3. Create a nested loop to print a diamond pattern of asterisks.
+4. Modify the pattern to print a hollow diamond.
+5. Create a nested loop to print a staircase pattern of asterisks.
+
+Exercise 15: Loop Control Statements
+
+1. Use a for loop to print all even numbers from 1 to 20.
+2. Use a while loop to find the first multiple of 7 greater than 100.
+3. Create a loop that stops when the sum of numbers from 1 to n is greater than 1000.
+4. Use a loop to find and print the factorial of a given number.
+5. Create a loop that iterates through an array and breaks when a specific condition is met.
+
+Exercise 16: Looping with Do-While Loop
+
+1. Create a do-while loop that counts from 1 to 5.
+2. Modify the loop to execute at least once, even if the condition is false initially.
+3. Use a do-while loop to prompt the user for a password until they enter the correct one.
+4. Create a do-while loop to simulate rolling a dice until a 6 is rolled.
+5. Implement a menu system with a do-while loop where the user can choose options.
+
+Exercise 17: Looping Over Arrays (Advanced)
+
+1. Create an array of objects, each representing a person with name and age properties.
+2. Use a for...of loop to print the names of people below a certain age.
+3. Filter the array to get all people above a certain age and print their names.
+4. Use a for...of loop to find the person with the longest name.
+5. Create an array of numbers and use for...of to find the average of numbers above a certain threshold.
+
+Exercise 18: Looping Over Arrays (More Advanced)
+
+1. Create an array of objects representing products with name and price properties.
+2. Use a for...of loop to calculate the total price of all products.
+3. Filter the products to get a list of products below a certain price and print their names.
+4. Use a for...of loop to find and print the most expensive product.
+5. Calculate the average price of products above a certain price threshold using for...of.
+
+Exercise 19: Looping with Map, Filter, and Reduce (Arrays)
+
+1. Create an array of numbers and use the map function to square each number.
+2. Filter an array to find and print all prime numbers using the filter function.
+3. Use the reduce function to find the maximum value in an array of numbers.
+4. Create an array of strings and use map to capitalize the first letter of each string.
+5. Filter an array of objects to find and print objects with a specific property value using filter.
+
+Exercise 20: Looping with Map, Filter, and Reduce (Objects)
+
+1. Create an array of objects representing products with name, price, and quantity properties.
+2. Use the map function to calculate the total value (price * quantity) for each product.
+3. Use the filter function to get a list of products with a quantity greater than a certain threshold.
+4. Use the reduce function to find the total value of all products.
+5. Create an object with key-value pairs representing sales data (product names and quantities sold). Use reduce to calculate the total quantity sold for each product.
+

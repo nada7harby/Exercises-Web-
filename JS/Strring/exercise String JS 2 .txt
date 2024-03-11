@@ -1,0 +1,106 @@
+
+Exercise 16: String Character Extraction
+1. Create a string variable with a sentence.
+2. Prompt the user to enter a position (index) within the string.
+3. Extract and display the character at the specified position.
+4. Handle edge cases, such as positions outside the string length.
+5. Provide informative feedback to the user.
+
+Exercise 17: String Comparison
+1. Declare two string variables.
+2. Compare the two strings to check if they are equal.
+3. Display a message indicating whether the strings are the same or different.
+4. Perform a case-insensitive comparison.
+5. Display the comparison results.
+
+Exercise 18: String Repetition
+1. Create a function that takes a string and a number as input.
+2. Use the function to repeat the string a specified number of times.
+3. Display the repeated string.
+4. Handle negative and zero repetitions.
+5. Provide examples with different strings and repetition counts.
+
+Exercise 19: String Character Removal
+1. Declare a string variable.
+2. Create a function that removes a specific character from the string.
+3. Prompt the user to enter the character to be removed.
+4. Display the modified string after removal.
+5. Account for cases where the character appears multiple times.
+
+Exercise 20: String Validation
+1. Create a function that checks if a string contains only alphanumeric characters.
+2. Test the function with different strings.
+3. Display whether each string is valid or not.
+4. Include a case that checks for empty strings.
+5. Provide informative error messages.
+
+Exercise 21: String Capitalization
+1. Create a function that capitalizes the first letter of each sentence in a given paragraph.
+2. Test the function with various paragraphs.
+3. Display the modified paragraphs.
+4. Handle sentences ending with punctuation marks.
+5. Preserve the capitalization of proper nouns.
+
+Exercise 22: String Word Reversal
+1. Create a function that reverses the order of words in a sentence.
+2. Test the function with different sentences.
+3. Display the modified sentences.
+4. Preserve the punctuation and spacing between words.
+5. Account for multiple spaces between words.
+
+Exercise 23: String Password Generator
+1. Develop a function that generates a random password of a specified length.
+2. Allow the user to specify the length of the password.
+3. Include a mix of uppercase, lowercase letters, numbers, and special characters.
+4. Display the generated password.
+5. Provide the option to generate multiple passwords.
+
+Exercise 24: String Format Validation
+1. Create a function that validates if a string follows a specific format (e.g., phone number, postal code).
+2. Test the function with various strings.
+3. Display whether each string conforms to the format or not.
+4. Handle different variations of the format.
+5. Provide clear format guidelines.
+
+Exercise 25: String Word Count and Frequency
+1. Create a function that counts the number of words in a sentence.
+2. Display the word count.
+3. Additionally, calculate and display the frequency of each word in the sentence.
+4. Ignore punctuation and consider case-insensitivity.
+5. Display the word frequency in a user-friendly format.
+
+Exercise 26: String Encryption
+1. Build a function that encrypts a given string using a simple substitution cipher.
+2. Display the encrypted string.
+3. Implement decryption to convert the encrypted string back to the original.
+4. Test the encryption and decryption processes.
+5. Ensure the key is known for decryption.
+
+Exercise 27: String Anagram Checker
+1. Create a function that checks if two strings are anagrams of each other.
+2. Prompt the user to enter two strings.
+3. Display whether the strings are anagrams or not.
+4. Account for spaces and ignore letter casing.
+5. Provide examples with both anagrams and non-anagrams.
+
+Exercise 28: String Character Encoding
+1. Develop a function that encodes a string using a simple character substitution method (e.g., ROT13).
+2. Display the encoded string.
+3. Implement decoding to convert the encoded string back to the original.
+4. Test the encoding and decoding processes.
+5. Ensure the encoding method is reversible.
+
+Exercise 29: String Pattern Matching
+1. Create a function that searches for a specific pattern or regular expression within a string.
+2. Prompt the user to enter a pattern to search for.
+3. Display the matched substrings and their positions.
+4. Handle cases with multiple matches.
+5. Provide informative output for the user.
+
+Exercise 30: String Word Replacement
+1. Declare a sentence as a string.
+2. Create a function that replaces a specific word in the sentence with another word.
+3. Prompt the user for the word to be replaced and the replacement word.
+4. Display the modified sentence.
+5. Account for multiple occurrences of the word.
+

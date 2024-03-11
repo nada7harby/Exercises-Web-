@@ -1,0 +1,71 @@
+
+Exercise 16: Array Filtering
+1. Create an array of numbers with some negative values.
+2. Filter out the negative numbers into a new array.
+3. Filter out the even numbers into another new array.
+4. Filter out numbers divisible by 3 into a third new array.
+5. Calculate the sum of the numbers in each filtered array.
+
+Exercise 17: Array Chunking
+1. Create an array of numbers.
+2. Split the array into chunks of a specified size (e.g., chunks of 3).
+3. Handle any remaining elements if the array length is not divisible by the chunk size.
+4. Flatten the chunked arrays back into a single array.
+5. Find the average value of the numbers in each chunk.
+
+Exercise 18: Array Rearrangement
+1. Create an array of names.
+2. Shuffle the order of names randomly.
+3. Sort the shuffled array alphabetically.
+4. Reverse the sorted array to get the original order.
+5. Find the longest name in the array.
+
+Exercise 19: Array Comparison
+1. Create two arrays of numbers.
+2. Check if the arrays are equal in length.
+3. Check if the arrays have the same elements (order-independent).
+4. Find the elements that are common between the two arrays.
+5. Find the elements that are unique to each array.
+
+Exercise 20: Array of Dates
+1. Create an array of JavaScript Date objects.
+2. Print the current date and time for each date in the array.
+3. Calculate the time difference between two specific dates.
+4. Find the earliest date in the array.
+5. Sort the dates in ascending order.
+
+Exercise 21: Array Rotation
+1. Create an array of numbers.
+2. Rotate the array to the right by a specified number of positions.
+3. Rotate the array to the left by a different number of positions.
+4. Rotate the array in both directions multiple times.
+5. Compare the results of each rotation.
+
+Exercise 22: Array Combination
+1. Create two arrays with the same length.
+2. Combine the elements of the two arrays into pairs.
+3. Calculate the sum of each pair.
+4. Filter pairs with a sum greater than a specified value.
+5. Find the pair with the highest sum.
+
+Exercise 23: Array Searching (Advanced)
+1. Create an array of objects with properties like name, age, and city.
+2. Search for objects with a specific name or city.
+3. Find the oldest person in the array.
+4. Find the total number of people from a particular city.
+5. Calculate the average age of people in the array.
+
+Exercise 24: Palindrome Check
+1. Create an array of words.
+2. Check if each word in the array is a palindrome.
+3. Filter out the palindromes into a new array.
+4. Count the number of palindromes in the array.
+5. Print the palindromes and their lengths.
+
+Exercise 25: Array Flattening (Advanced)
+1. Create a deeply nested array with multiple levels.
+2. Flatten the array to a single-level array using recursion.
+3. Check if the flattened array is identical to the original one.
+4. Flatten the array using the `Array.prototype.flat()` method.
+5. Compare the results of both flattening methods.
+

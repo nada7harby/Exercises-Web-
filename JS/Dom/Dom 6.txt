@@ -1,0 +1,106 @@
+
+Exercise 16: Dynamic Table
+1. Create an empty table with headers for columns.
+2. Add a button that allows users to add rows to the table.
+3. When the button is clicked, prompt the user for input to populate the new row.
+4. Include a "Delete" button in each row to remove that row.
+5. Implement functionality to edit cell content in place.
+
+Exercise 17: Interactive Quiz
+1. Create a quiz with multiple-choice questions and options.
+2. Display one question at a time.
+3. Keep track of the user's score as they answer questions.
+4. Show the final score at the end of the quiz.
+5. Add a timer that limits the time to answer each question.
+
+Exercise 18: Image Gallery
+1. Create an image gallery with a grid of thumbnail images.
+2. Allow users to click on thumbnails to view the full-sized image.
+3. Implement navigation buttons to switch between images.
+4. Add a caption for each image.
+5. Include a close button to exit the full-sized image view.
+
+Exercise 19: Creating a Sticky Header
+1. Create a header at the top of the page.
+2. As the user scrolls down, make the header stick to the top of the viewport.
+3. Add smooth scrolling when clicking on navigation links to scroll to different sections of the page.
+4. Implement a "Back to Top" button that appears when the user scrolls down and takes them to the top when clicked.
+5. Customize the header's appearance when it becomes sticky.
+
+Exercise 20: Drag and Resize Elements
+1. Create a set of elements that users can drag around the page.
+2. Allow users to resize these elements by dragging their corners.
+3. Snap elements to a grid when dragged.
+4. Implement z-index functionality to manage the stacking order of elements.
+5. Add a "Reset" button to return all elements to their initial positions and sizes.
+
+Exercise 21: Creating a Modal Form
+1. Create a button that opens a modal form when clicked.
+2. The form should have input fields and a submit button.
+3. Validate the input fields and display error messages if necessary.
+4. Close the modal when the form is submitted successfully.
+5. Implement a "Cancel" button to close the modal without submitting.
+
+Exercise 22: Real-Time Chat Application
+1. Create a chat interface with a message input field and a chat display area.
+2. Allow users to send and receive messages in real-time.
+3. Display timestamps for each message.
+4. Implement features like message deletion and editing.
+5. Show typing indicators when someone is typing a message.
+
+Exercise 23: Implementing a Carousel
+1. Create a carousel with multiple slides and navigation buttons.
+2. Add automatic slide transitions with a configurable interval.
+3. Display slide indicators to show the current slide position.
+4. Make it responsive for different screen sizes.
+5. Include a pause/play button to control automatic sliding.
+
+Exercise 24: Creating a Tooltip
+1. Create elements with tooltip content.
+2. Add tooltip functionality that shows a tooltip when hovering over the element.
+3. Position the tooltip relative to the element (e.g., above, below, or beside).
+4. Customize the tooltip's appearance and animation.
+5. Ensure the tooltip closes when the mouse moves away from the element.
+
+Exercise 25: Interactive Map
+1. Embed a map (e.g., Google Maps) on a web page.
+2. Allow users to search for locations and display them on the map.
+3. Implement markers for specific points of interest.
+4. Enable zooming and panning functionality.
+5. Display additional information when clicking on markers.
+
+Exercise 26: Creating a Progress Bar
+1. Create a progress bar element.
+2. Add functionality to update the progress bar's value dynamically.
+3. Implement a timer that increases the progress over time.
+4. Customize the appearance of the progress bar.
+5. Show completion messages when the progress reaches 100%.
+
+Exercise 27: Building a Weather App
+1. Integrate a weather API to fetch weather data.
+2. Allow users to search for a location to get the current weather forecast.
+3. Display weather information such as temperature, conditions, and icons.
+4. Include a feature to switch between Celsius and Fahrenheit.
+5. Show additional details like humidity and wind speed.
+
+Exercise 28: Creating a Dynamic Navigation Menu
+1. Create a navigation menu with links.
+2. Implement a responsive design for different screen sizes.
+3. Add a "Hamburger" menu for mobile devices.
+4. Create a dropdown menu for sub-navigation on hover or click.
+5. Use CSS transitions/animations for a smooth user experience.
+
+Exercise 29: Implementing Infinite Scrolling
+1. Create a list of items that exceed the initial viewport height.
+2. Load more items as the user scrolls down the list.
+3. Fetch additional data dynamically to populate the list.
+4. Add a loading indicator during data fetching.
+5. Optimize performance by recycling off-screen elements.
+
+Exercise 30: Creating a Video Player
+1. Embed a video player on the page.
+2. Implement play, pause, volume control, and fullscreen features.
+3. Add a progress bar and timestamp for video playback.
+4. Customize the player's appearance and controls.
+5. Include keyboard shortcuts for playback control.
+

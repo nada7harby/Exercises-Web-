@@ -1,0 +1,76 @@
+Exercise 1: String Concatenation
+1. Create two variables, `firstName` and `lastName`, and concatenate them to form a full name.
+2. Display the full name in the console.
+3. Use string interpolation to display a greeting with the full name.
+
+Exercise 2: String Length
+1. Declare a string variable with a sentence.
+2. Calculate and display the length of the string.
+3. Display a message indicating whether the string is short, medium, or long based on its length.
+
+Exercise 3: String Splitting
+1. Create a string containing a list of items separated by commas (e.g., "apple,banana,orange").
+2. Split the string into an array of individual items.
+3. Display the items in the console one by one.
+
+Exercise 4: String Uppercase and Lowercase
+1. Create a string with a mix of uppercase and lowercase letters.
+2. Convert the string to all uppercase.
+3. Convert the string to all lowercase.
+
+
+Exercise 5: String Searching
+1. Declare a string variable containing a sentence.
+2. Search for a specific word within the string.
+3. Display a message indicating whether the word was found or not.
+
+Exercise 6: String Replacement
+1. Create a string with a sentence containing a specific word.
+2. Replace that word with another word of your choice.
+3. Display the modified sentence.
+
+Exercise 7: String Trimming
+1. Declare a string variable with extra spaces at the beginning and end.
+2. Remove the leading and trailing whitespace.
+3. Display the trimmed string. 
+
+Exercise 8: String Palindrome Check
+1. Create a function that checks if a given string is a palindrome (reads the same forwards and backwards).
+2. Test the function with different palindrome and non-palindrome strings.
+3. Display the results.
+
+Exercise 9: String Character Count
+1. Create a string with a sentence.
+2. Count the occurrences of a specific character within the string.
+3. Display the count in the console.
+
+Exercise 10: String Title Case
+1. Create a string with a sentence.
+2. Convert the first letter of each word in the sentence to uppercase.
+3. Display the modified sentence.
+
+Exercise 11: String URL Parsing
+1. Create a string that represents a URL (e.g., "https://www.example.com/path?query=value").
+2. Parse and extract the protocol, domain, and query parameters from the URL.
+3. Display each component separately.
+
+Exercise 12: String Email Validation
+1. Create a function that validates if a given string is a valid email address.
+2. Test the function with various email addresses.
+3. Display whether each email is valid or not.
+
+Exercise 13: String Reversal
+1. Create a function that reverses a given string.
+2. Test the function with different strings.
+3. Display the reversed strings.
+
+
+Exercise 14: String Character Reversal
+1. Create a function that reverses the order of characters in each word of a sentence while keeping the words in the same order.
+2. Test the function with different sentences.
+3. Display the modified sentences.
+
+Exercise 15: String Word Count
+1. Create a function that counts the number of words in a sentence.
+2. Test the function with various sentences.
+3. Display the word counts for each sentence.

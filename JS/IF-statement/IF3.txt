@@ -1,0 +1,106 @@
+
+Exercise 46: Age Eligibility Checker
+1. Create a program that checks if a person is eligible for different age-restricted activities (e.g., driving, voting, drinking, retiring).
+2. Use `if` statements to determine eligibility based on age.
+3. Prompt the user to enter their age.
+4. Display a message indicating eligibility for each activity.
+5. Include age requirements for each activity.
+
+Exercise 47: Menu Item Recommender
+1. Build a program that recommends menu items at a restaurant based on user preferences (e.g., vegetarian, spicy).
+2. Use `if` statements to match preferences with available menu items.
+3. Prompt the user to select their preferences.
+4. Display recommended menu items.
+5. Include a variety of menu options.
+
+Exercise 48: Mobile App Permissions
+1. Simulate a mobile app's permission request system.
+2. Use `if` statements to check if a user has granted or denied permission to access device features (camera, location, contacts).
+3. Prompt the user to grant or deny each permission.
+4. Display a message indicating the status of each permission.
+5. Include explanations for why each permission is needed.
+
+Exercise 49: Product Discount Calculator
+1. Create a program that calculates discounts on products based on user input (product price, discount percentage).
+2. Use `if` statements to apply discounts.
+3. Prompt the user to enter the product price and discount percentage.
+4. Display the discounted price.
+5. Handle cases where the discount percentage is invalid.
+
+Exercise 50: Weather App
+1. Develop a weather app that provides weather information based on user input (city name).
+2. Use `if` statements to fetch and display weather data for different cities.
+3. Prompt the user to enter a city name.
+4. Display the current weather conditions (temperature, description).
+5. Include error handling for invalid city names.
+
+Exercise 51: Loan Eligibility Checker
+1. Build a program that checks if a person is eligible for a loan based on income and credit score.
+2. Use `if` statements to determine loan eligibility criteria.
+3. Prompt the user to enter their income and credit score.
+4. Display a message indicating loan eligibility.
+5. Include explanations for loan eligibility requirements.
+
+Exercise 52: Social Media Post Analyzer
+1. Create a program that analyzes social media posts and categorizes them as positive, neutral, or negative.
+2. Use `if` statements to assess sentiment based on keywords and sentiment scores.
+3. Prompt the user to enter a social media post.
+4. Display the sentiment analysis result.
+5. Include a list of positive and negative keywords.
+
+Exercise 53: User Subscription Checker
+1. Develop a program that checks if a user's subscription is active and allows access to premium content.
+2. Use `if` statements to validate the subscription status.
+3. Prompt the user to enter their subscription status and username.
+4. Display a message indicating access status.
+5. Include expiration date details.
+
+Exercise 54: Game Character Stats
+1. Create a game character stats system that checks if a character's attributes meet certain requirements (e.g., strength, agility).
+2. Use `if` statements to evaluate character stats.
+3. Prompt the user to enter character stats.
+4. Display a message indicating if the character meets the requirements.
+5. Specify stat requirements for different character classes.
+
+Exercise 55: Flight Booking System
+1. Simulate a flight booking system that checks seat availability and assigns seats to passengers.
+2. Use `if` statements to allocate seats and check availability.
+3. Prompt the user to select a flight and passenger details.
+4. Display the assigned seat or an error message if the flight is full.
+5. Include seat availability updates.
+
+Exercise 56: Exam Grading System
+1. Create a program that grades exams and provides feedback based on the score.
+2. Use `if` statements to assign grades and feedback.
+3. Prompt the user to enter the exam score.
+4. Display the grade and feedback.
+5. Include grade boundaries and feedback messages.
+
+Exercise 57: Library Book Reservation
+1. Develop a library book reservation system that checks book availability and reserves books for users.
+2. Use `if` statements to manage book reservations.
+3. Prompt the user to search for books and reserve a book.
+4. Display reservation status and due date.
+5. Implement book availability tracking.
+
+Exercise 58: Event Ticket Checker
+1. Build a program that checks if a user's event ticket is valid and provides event details.
+2. Use `if` statements to validate ticket authenticity and event access.
+3. Prompt the user to enter the ticket details.
+4. Display event information or an error message.
+5. Include event date and location.
+
+Exercise 59: Restaurant Bill Splitter
+1. Create a program that splits a restaurant bill among a group of diners.
+2. Use `if` statements to handle different scenarios (e.g., tax, tip).
+3. Prompt the user to enter the total bill amount and number of diners.
+4. Display the individual share including tax and tip.
+5. Include customization options for tax and tip percentages.
+
+Exercise 60: Simple Quiz Game
+1. Develop a simple quiz game with multiple-choice questions.
+2. Use `if` statements to check if the user's answer is correct.
+3. Prompt the user with questions and answer choices.
+4. Keep track of the user's score.
+5. Display the final quiz score and feedback.
+

@@ -1,0 +1,72 @@
+
+
+Exercise 16: Checking Object Properties
+1. Create an object `person` with properties: `name`, `age`, and `isStudent`.
+2. Write an `if` statement to check if `person` has a `name` property.
+3. If it has a `name`, log "Name is present."
+4. Write another `if` statement to check if `person` is a student (based on `isStudent` property).
+5. If `isStudent` is `true`, log "The person is a student."
+
+Exercise 17: Combining Conditions
+1. Create two variables: `temperature` (number) and `isRaining` (boolean).
+2. Write an `if` statement to check if it's either below 0 degrees Celsius or raining.
+3. If either condition is true, log "Stay inside."
+4. Write another `if` statement to check if both conditions are true.
+5. If both are true, log "It's freezing and raining!"
+
+Exercise 18: Complex Logical Conditions
+1. Create variables `hasMoney` (boolean) and `hasTime` (boolean).
+2. Write an `if` statement to check if either `hasMoney` is `true` or `hasTime` is `true`.
+3. If either is true, log "You can go on a vacation!"
+4. Write another `if` statement to check if both `hasMoney` and `hasTime` are `true`.
+5. If both are true, log "You can go on a vacation and enjoy!"
+
+Exercise 19: Temperature Check
+1. Create a variable `temperature` and set it to a number.
+2. Write an `if` statement to check if `temperature` is below freezing (32 degrees Fahrenheit).
+3. If it's below freezing, log "It's freezing outside."
+4. Write another `if` statement to check if it's above 100 degrees Fahrenheit.
+5. If it's extremely hot, log "It's scorching outside!"
+
+Exercise 20: Validating User Input
+1. Create a variable `userInput` and set it to a string.
+2. Write an `if` statement to check if `userInput` contains at least 5 characters.
+3. If it does, log "Input is valid."
+4. Write another `if` statement to check if `userInput` contains only letters (no numbers or special characters).
+5. If it contains only letters, log "Input consists of letters only."
+
+Exercise 21: Checking Array Contents
+1. Create an array `numbers` with some elements.
+2. Write an `if` statement to check if the array is empty.
+3. If it's empty, log "The array is empty."
+4. Write another `if` statement to check if the array contains the number 5.
+5. If it contains the number 5, log "The array contains 5."
+
+Exercise 22: Multiple `if` Statements
+1. Create a variable `day` and set it to a string representing a day of the week.
+2. Write multiple `if` statements to check if `day` is "Saturday" or "Sunday".
+3. If it's either day, log "It's the weekend!"
+4. Write additional `if` statements to check if `day` is "Monday," "Wednesday," or "Friday."
+5. If it's any of these days, log "It's a weekday."
+
+Exercise 23: Checking for a Range
+1. Create a variable `score` and set it to a number.
+2. Write an `if` statement to check if `score` is between 80 and 90 (inclusive).
+3. If it's in the range, log "Score is in the acceptable range."
+4. Write another `if` statement to check if `score` is either below 60 or above 95.
+5. If it's outside of these ranges, log "Score is not in the desired range."
+
+Exercise 24: Checking for Null or Undefined (Advanced)
+1. Create a variable `value` and set it to `null`.
+2. Use the `typeof` operator to check if `value` is "undefined."
+3. If it's undefined, log "Value is undefined."
+4. Use the `typeof` operator to check if `value` is "null."
+5. If it's null, log "Value is null."
+
+Exercise 25: Advanced Object Property Check
+1. Create an object `car` with properties: `make`, `model`, and `year`.
+2. Use the `hasOwnProperty()` method to check if `car` has a property called `make`.
+3. If it has a `make` property, log "Car has a make."
+4. Use `hasOwnProperty()` to check if `car` has a property called `color`.
+5. If it doesn't have a `color` property, log "Car does not have a color."
+

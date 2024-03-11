@@ -1,0 +1,47 @@
+
+
+Exercise 36: Dynamic Form Fields
+1. Create a form that allows users to add and remove input fields dynamically (e.g., for a to-do list or contact form).
+
+Exercise 37: Filter and Search
+2. Build a list of items and implement a search/filter feature that dynamically filters the list based on user input.
+
+Exercise 38: Carousel
+3. Create a carousel or slider component that allows users to navigate through a series of images or content.
+
+Exercise 39: Sticky Sidebar
+4. Make a sidebar element sticky when scrolling, so it remains visible even as users scroll down the page.
+
+Exercise 40: Dark Mode Toggle
+5. Implement a dark mode toggle button that changes the page's color scheme when clicked.
+
+Exercise 41: Quiz or Survey
+6. Create a quiz or survey form that tallies and displays results based on user responses.
+
+Exercise 42: Audio and Video Player
+7. Build a custom audio or video player with play, pause, and volume control features.
+
+Exercise 43: Contextual Dropdown Menu
+8. Implement a dropdown menu that changes its content dynamically based on user selection from another dropdown (dependent dropdowns).
+
+Exercise 44: Infinite Carousel
+9. Enhance your carousel from Exercise 38 to loop infinitely through items without reaching an end.
+
+Exercise 45: Date Picker
+10. Create a date picker widget that allows users to select dates from a calendar.
+
+Exercise 46: Image Gallery with Lightbox
+11. Build an image gallery with a lightbox effect that displays larger images when clicked.
+
+Exercise 47: Real-Time Chat
+12. Develop a real-time chat application using the DOM and WebSocket API to send and receive messages.
+
+Exercise 48: Tooltip for Form Validation
+13. Provide tooltips next to form fields that dynamically show validation error messages as users enter data.
+
+Exercise 49: Progress Bar
+14. Create a progress bar that updates based on user actions or the progress of a task (e.g., file upload).
+
+Exercise 50: Virtual DOM Implementation
+15. Challenge yourself by attempting to implement a simplified version of a virtual DOM to understand how it works under the hood.
+

@@ -1,0 +1,70 @@
+Exercise 1:
+1. Create a variable `str` and assign it the value "Hello, World!".
+2. Find the length of the string `str`.
+3. Convert `str` to lowercase.
+4. Extract the word "World" from `str`.
+5. Check if `str` contains the word "Hello".
+
+Exercise 2:
+1. Create a variable `sentence` and assign it a sentence of your choice.
+2. Replace all occurrences of a specific word in `sentence` with another word.
+3. Split `sentence` into an array of words.
+4. Join the words in the array back into a single string with spaces.
+5. Find the index of a specific word in `sentence`.
+
+Exercise 3:
+1. Create a variable `email` and assign it an email address.
+2. Extract the username (everything before the '@') from the email.
+3. Extract the domain (everything after the '@') from the email.
+4. Check if the email contains ".com".
+5. Replace the domain in the email with a different domain.
+
+Exercise 4:
+1. Create a variable `name` and assign it your full name.
+2. Split `name` into an array containing your first name and last name.
+3. Use string concatenation to create a new string with your last name followed by a comma and a space and then your first name.
+4. Check if your name contains the letter 'a'.
+5. Replace all occurrences of a specific letter in your name with another letter.
+
+Exercise 5:
+1. Create a variable `sentence` and assign it a sentence of your choice.
+2. Count the number of spaces in `sentence`.
+3. Check if `sentence` starts with a capital letter.
+4. Find the last character in `sentence`.
+5. Replace all vowels in `sentence` with asterisks '*'.
+
+Exercise 6:
+1. Create a variable `str` and assign it a string of your choice.
+2. Reverse the characters in `str`.
+3. Find the first occurrence of a specific character in `str`.
+4. Check if `str` is a palindrome (reads the same forwards and backwards).
+5. Extract the last word from `str`.
+
+Exercise 7:
+1. Create a variable `text` and assign it a long paragraph.
+2. Find the number of occurrences of a specific word in `text`.
+3. Check if `text` contains any numbers.
+4. Replace all punctuation marks (e.g., periods, commas) with spaces in `text`.
+5. Convert `text` to title case (capitalize the first letter of each word).
+
+Exercise 8:
+1. Create a variable `url` and assign it a URL.
+2. Extract the protocol (e.g., "https") from the URL.
+3. Extract the domain (e.g., "example.com") from the URL.
+4. Extract query parameters (if any) from the URL.
+5. Check if the URL ends with a specific file extension (e.g., ".html").
+
+Exercise 9:
+1. Create a variable `word` and assign it a single word.
+2. Check if `word` is a valid palindrome ignoring spaces and capitalization.
+3. Find the longest substring of consecutive vowels in `word`.
+4. Replace all consonants in `word` with an underscore "_".
+5. Check if `word` is an anagram of another word.
+
+Exercise 10:
+1. Create a variable `phoneNumber` and assign it a phone number in a common format.
+2. Extract the area code from `phoneNumber`.
+3. Extract the country code from `phoneNumber`.
+4. Remove all non-numeric characters from `phoneNumber`.
+5. Check if `phoneNumber` is a valid phone number (based on a specific pattern).
+

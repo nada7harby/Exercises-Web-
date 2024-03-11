@@ -1,0 +1,82 @@
+
+Exercise 11: Manipulating Text
+
+1. Create a variable `str` and assign it a string.
+2. Find and display the first 5 characters of `str`.
+3. Find and display the last 5 characters of `str`.
+4. Extract the substring between the 5th and 10th characters of `str`.
+5. Replace all spaces in `str` with hyphens ("-").
+
+Exercise 12: String Searching and Counting
+
+1. Create a variable `text` and assign it a long text.
+2. Find and display the index of the first occurrence of a specific word in `text`.
+3. Count and display the total number of occurrences of that word in `text`.
+4. Find and display the indexes of all occurrences of that word in `text`.
+5. Check if `text` contains a specific phrase.
+
+Exercise 13: Formatting Text
+
+1. Create a variable `sentence` with a sentence that has inconsistent spacing.
+2. Trim the extra whitespace from the beginning and end of `sentence`.
+3. Convert `sentence` to all uppercase letters.
+4. Create a new sentence by reversing the words in `sentence`.
+5. Capitalize the first letter of each word in `sentence`.
+
+Exercise 14: Email Manipulation
+
+1. Create a variable `email` and assign it an email address.
+2. Extract the top-level domain (TLD) from the email.
+3. Check if the email address is valid (contains '@' and a TLD).
+4. Extract the email username.
+5. Replace the TLD in the email with a different TLD.
+
+Exercise 15: Password Validation
+
+1. Create a variable `password` and assign it a password.
+2. Check if the password contains at least 8 characters.
+3. Check if the password contains at least one uppercase letter.
+4. Check if the password contains at least one digit.
+5. Check if the password contains at least one special character (e.g., !, @, #, $).
+
+Exercise 16: String Concatenation
+
+1. Create two variables `firstName` and `lastName` and assign them your first and last names, respectively.
+2. Concatenate `firstName` and `lastName` to form a full name.
+3. Add a space between the first and last name.
+4. Create a variable `greeting` and assign it a greeting message using your full name.
+5. Create a variable `age` and assign it your age. Concatenate it with your greeting.
+
+Exercise 17: Text Extraction
+
+1. Create a variable `html` and assign it an HTML snippet with various tags.
+2. Extract the text content between a specific pair of HTML tags (e.g., `<p>` and `</p>`).
+3. Extract all the links (URLs) from the HTML.
+4. Remove all HTML tags and display only the plain text.
+5. Count and display the number of words in the plain text.
+
+Exercise 18: URL Manipulation
+
+1. Create a variable `fullUrl` and assign it a complete URL.
+2. Extract and display the protocol (e.g., "https") from the URL.
+3. Extract and display the host (e.g., "www.example.com") from the URL.
+4. Extract and display the path (e.g., "/products/page") from the URL.
+5. Extract and display the query parameters as key-value pairs from the URL.
+
+Exercise 19: Text Reversal
+
+1. Create a variable `inputText` and assign it a sentence or phrase.
+2. Reverse the characters in `inputText` while preserving word order.
+3. Reverse the order of words in `inputText` without changing individual word order.
+4. Create a function that reverses a string and use it to reverse `inputText`.
+5. Check if the reversed `inputText` is a palindrome.
+
+Exercise 20: String Validation
+
+1. Create a variable `inputString` and assign it a string.
+2. Check if `inputString` contains only letters (no numbers or special characters).
+3. Check if `inputString` contains only numbers (no letters or special characters).
+4. Check if `inputString` contains a mix of letters and numbers.
+5. Check if `inputString` is a valid email address.
+
+Feel free to work through these exercises at your own pace. If you have any questions or need further assistance with any of them, please don't hesitate to ask!

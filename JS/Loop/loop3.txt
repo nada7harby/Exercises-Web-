@@ -1,0 +1,82 @@
+
+
+Exercise 21: Looping with For...In (Arrays)
+
+1. Create an array of colors.
+2. Use a for...in loop to iterate through the array and print each color.
+3. Add a new color to the array.
+4. Use for...in to iterate through the modified array and print all colors.
+5. Remove a color from the array and use for...in to iterate through the updated array.
+
+Exercise 22: Looping with forEach (Arrays)
+
+1. Create an array of numbers.
+2. Use the forEach method to square each number and print the results.
+3. Use forEach to find and print the first even number in the array.
+4. Use forEach to calculate the sum of all numbers in the array.
+5. Create an array of strings and use forEach to print the length of each string.
+
+Exercise 23: Looping with While Loop (Advanced)
+
+1. Create an array of random numbers between 1 and 10.
+2. Use a while loop to find and print the first occurrence of a specific number in the array.
+3. Use a while loop to find and print the index of the maximum number in the array.
+4. Create a while loop that stops when a specific condition is met, such as reaching a certain sum.
+5. Use a while loop to reverse the elements in the array.
+
+Exercise 24: Looping with Do-While Loop (Advanced)
+
+1. Create an array of names.
+2. Use a do-while loop to prompt the user to enter a name until they enter a name that is in the array.
+3. Create a do-while loop to simulate a guessing game where the user has to guess a random number between 1 and 10.
+4. Implement a do-while loop that prints a menu of options and executes the selected option until the user chooses to exit.
+5. Create a do-while loop that calculates the factorial of a number entered by the user.
+
+Exercise 25: Looping Over Multidimensional Arrays
+
+1. Create a multidimensional array representing a tic-tac-toe board.
+2. Use nested loops to print the contents of the board.
+3. Create a function that checks if there is a winner in the tic-tac-toe game.
+4. Use nested loops to find and print the sum of each row and column in a matrix.
+5. Create a function that transposes a matrix (swap rows and columns).
+
+Exercise 26: Looping with For...Of (Strings)
+
+1. Create a string and use for...of to iterate through its characters and print them.
+2. Use for...of to count and print the number of vowels in the string.
+3. Create a function that reverses the characters in a string using for...of.
+4. Use for...of to check if a string contains only lowercase letters.
+5. Create a function that counts the occurrences of a specific character in a string using for...of.
+
+Exercise 27: Looping with For...In (Strings)
+
+1. Create a string and use for...in to iterate through its characters and print their indices.
+2. Use for...in to count and print the number of uppercase letters in the string.
+3. Create a function that capitalizes the first letter of each word in a string using for...in.
+4. Use for...in to check if a string contains any numeric characters.
+5. Create a function that finds and prints the most frequently occurring character in a string using for...in.
+
+Exercise 28: Looping with Map, Filter, and Reduce (Strings)
+
+1. Create an array of strings.
+2. Use the map function to find and print the length of each string in the array.
+3. Use filter to get a list of strings that contain a specific substring.
+4. Use reduce to concatenate all strings in the array into a single string.
+5. Create a function that checks if a given word is an anagram of any word in the array using map and filter.
+
+Exercise 29: Looping with Promises
+
+1. Create an array of promises that simulate asynchronous tasks (e.g., fetching data).
+2. Use Promise.all to wait for all promises to resolve and print the results.
+3. Implement error handling with Promise.catch for one of the promises.
+4. Create a function that simulates parallel execution of promises with Promise.all.
+5. Create a promise that resolves after a specified delay and use Promise.race to handle it.
+
+Exercise 30: Looping with Async/Await
+
+1. Create an async function that simulates fetching data from an API and prints the result.
+2. Implement error handling using try...catch within the async function.
+3. Create a function that chains multiple async functions to execute sequentially.
+4. Use async/await to parallelize the execution of multiple async tasks.
+5. Create an async function that fetches data from multiple endpoints and aggregates the results.
+

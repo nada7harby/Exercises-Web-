@@ -1,0 +1,47 @@
+
+
+Exercise 21: Dynamic Dropdown
+1. Create a dropdown (select element) that dynamically populates its options based on an array of values when the page loads.
+
+Exercise 22: Character Counter
+2. Create an input field and a character counter that displays the number of characters entered in real-time.
+
+Exercise 23: Tabbed Content
+3. Implement a tabbed content section where clicking on different tabs displays different content areas.
+
+Exercise 24: Accordion
+4. Create an accordion component that allows users to expand and collapse sections when clicked.
+
+Exercise 25: Context Menu
+5. Implement a custom context menu that appears when users right-click on an element.
+
+Exercise 26: Image Zoom
+6. Create an image gallery with zoom functionality. Clicking on an image should open a larger version in a modal.
+
+Exercise 27: Infinite Scrolling
+7. Implement infinite scrolling for a list of items. Load additional items as the user scrolls down the page.
+
+Exercise 28: Sticky Header
+8. Make a header element sticky so that it remains at the top of the page as the user scrolls.
+
+Exercise 29: Password Strength Checker
+9. Create an input field for entering passwords and provide feedback on the strength of the password (weak, medium, strong) as the user types.
+
+Exercise 30: Drag-and-Drop File Upload
+10. Allow users to drag and drop files onto a designated area for uploading.
+
+Exercise 31: Contextual Tooltip
+11. Display a tooltip with additional information when users hover over certain elements on the page.
+
+Exercise 32: Geolocation
+12. Use the Geolocation API to retrieve the user's current location (latitude and longitude) and display it on a map.
+
+Exercise 33: Custom Scrollbar
+13. Create a custom scrollbar for a scrollable element with customized styling.
+
+Exercise 34: Responsive Navigation
+14. Implement a responsive navigation menu that changes its layout (e.g., from a hamburger menu to a full menu) based on screen size.
+
+Exercise 35: Countdown Timer
+15. Create a countdown timer that counts down from a specified time and performs an action when the timer reaches zero.
+

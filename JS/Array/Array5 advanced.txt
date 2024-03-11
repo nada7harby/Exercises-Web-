@@ -1,0 +1,72 @@
+
+
+Exercise 46: Array Intersection and Union (Advanced)
+1. Create two arrays with overlapping elements.
+2. Find the intersection of the two arrays (common elements) using `filter()`.
+3. Find the union of the two arrays (combined elements) using `concat()` and `filter()`.
+4. Find elements unique to each array (difference) using `filter()`.
+5. Sort the union array using `sort()`.
+
+Exercise 47: Array Sum and Product (Advanced)
+1. Create an array of numbers.
+2. Calculate the sum of all numbers in the array using `reduce()`.
+3. Calculate the product of all numbers in the array using `reduce()`.
+4. Use `reduce()` to find the maximum number in the array.
+5. Use `reduce()` to find the minimum number in the array.
+
+Exercise 48: Array Transformation with `map()` (Advanced)
+1. Create an array of strings containing numbers.
+2. Use `map()` to convert the strings to actual numbers.
+3. Use another `map()` to square each number.
+4. Create a new array containing the square roots of the squared numbers.
+5. Calculate the average of the squared roots using `reduce()` and `map()`.
+
+Exercise 49: Array Splitting and Joining (Advanced)
+1. Create a string of sentences separated by periods.
+2. Split the string into an array of sentences using `split()`.
+3. Use `join()` to concatenate the sentences into a single string separated by line breaks.
+4. Split the string again using a different delimiter (e.g., "###").
+5. Join the split string back together with spaces and periods.
+
+Exercise 50: Array Deduplication (Advanced)
+1. Create an array with duplicate elements, including nested arrays and objects.
+2. Remove duplicates to create a new array with unique elements.
+3. Maintain the original order of elements while removing duplicates.
+4. Use a custom function and `filter()` to deduplicate the array.
+5. Compare the performance of the custom function with using `Set` for deduplication.
+
+Exercise 51: Array Pagination (Advanced)
+1. Create an array of items.
+2. Implement pagination by displaying a specific number of items per page.
+3. Create functions to navigate to the next and previous pages.
+4. Display the current page number and total pages dynamically.
+5. Handle edge cases like navigating beyond the available pages and updating the UI accordingly.
+
+Exercise 52: Array Sorting with Custom Logic (Advanced)
+1. Create an array of objects representing products (with name, price, and category).
+2. Sort the products based on price in ascending order using `sort()`.
+3. Implement a custom sorting function to sort products by category and then by name.
+4. Sort the products in descending order of price using `sort()`.
+5. Compare the performance of sorting using a custom function and `sort()`.
+
+Exercise 53: Array Transformation with `reduce()` (Advanced)
+1. Create an array of objects representing transactions (with type, amount, and date).
+2. Use `reduce()` to group transactions by type into an object.
+3. Calculate the total amount for each transaction type.
+4. Find the transaction type with the highest total amount.
+5. Calculate the average transaction amount for each type and add it to the grouped data.
+
+Exercise 54: Array Searching and Filtering with Multiple Criteria (Advanced)
+1. Create an array of objects representing products (with name, price, category, and stock status).
+2. Filter products based on multiple criteria, such as price and category.
+3. Implement a search function to find products by name or keyword.
+4. Create a filter function to find products with low stock or out of stock.
+5. Combine multiple filtering conditions to create advanced search and filter functionality.
+
+Exercise 55: Array Transformation with `flatMap()` (Advanced)
+1. Create an array of sentences.
+2. Use the `flatMap()` method to split each sentence into words.
+3. Filter out common stop words (e.g., "the," "and," "is") from the words.
+4. Count the frequency of each remaining word in the array.
+5. Create a histogram of word frequencies, sorted by frequency count.
+

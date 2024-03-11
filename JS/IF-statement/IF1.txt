@@ -1,0 +1,106 @@
+
+Exercise 1: Even or Odd
+1. Declare a variable and assign it an integer value.
+2. Use an `if` statement to check if the number is even or odd.
+3. Display a message indicating whether the number is even or odd.
+4. Handle the case where the number is zero.
+5. Provide an example with a negative number.
+
+Exercise 2: Positive or Negative
+1. Declare a variable and assign it a numeric value.
+2. Use an `if` statement to determine if the number is positive, negative, or zero.
+3. Display a message accordingly.
+4. Consider edge cases involving zero.
+5. Test with both integers and floating-point numbers.
+
+Exercise 3: Greater of Two Numbers
+1. Declare two variables and assign them numeric values.
+2. Use an `if` statement to find and display the greater of the two numbers.
+3. Handle the case where the numbers are equal.
+4. Allow user input for the numbers.
+5. Provide an example where one number is negative.
+
+Exercise 4: Leap Year Checker
+1. Create a function that checks if a given year is a leap year.
+2. Use an `if` statement to determine leap year criteria.
+3. Prompt the user to enter a year and validate the input.
+4. Display whether the year is a leap year or not.
+5. Include informative comments explaining leap year rules.
+
+Exercise 5: Grade Calculator
+1. Create a function that calculates and assigns a letter grade (A, B, C, D, or F) based on a numeric score.
+2. Use a series of `if` statements to determine the grade boundaries.
+3. Prompt the user to enter a score and validate the input.
+4. Display the corresponding letter grade.
+5. Include grade boundaries and descriptions.
+
+Exercise 6: Age Group Classifier
+1. Develop a function that categorizes a person into age groups (child, teenager, adult, senior) based on their age.
+2. Use `if` statements to define age group boundaries.
+3. Prompt the user to enter their age and validate the input.
+4. Display the person's age group.
+5. Provide a clear explanation of each age group.
+
+Exercise 7: Triangle Type Determiner
+1. Create a function that determines the type of triangle (equilateral, isosceles, or scalene) based on the lengths of its sides.
+2. Use `if` statements to check for triangle types.
+3. Prompt the user to enter the lengths of three sides and validate the input.
+4. Display the type of triangle.
+5. Include explanations for each type.
+
+Exercise 8: Day of the Week
+1. Write a function that determines the day of the week (e.g., Sunday, Monday) based on a numeric day code.
+2. Use `if` statements to map day codes to days of the week.
+3. Prompt the user to enter a day code and validate the input.
+4. Display the corresponding day of the week.
+5. Provide day code explanations.
+
+Exercise 9: Temperature Converter
+1. Create a function that converts between Fahrenheit and Celsius temperatures.
+2. Use `if` statements to determine the conversion formula based on user input.
+3. Prompt the user to select the conversion direction and enter a temperature value.
+4. Display the converted temperature.
+5. Include both Fahrenheit to Celsius and Celsius to Fahrenheit conversions.
+
+Exercise 10: Discount Calculator
+1. Develop a function that calculates the total cost after applying a discount based on the purchase amount.
+2. Use `if` statements to determine the discount rates.
+3. Prompt the user to enter the purchase amount and validate the input.
+4. Display the discounted total.
+5. Provide discount rate explanations.
+
+Exercise 11: User Authentication
+1. Create a simple user authentication system with a predefined username and password.
+2. Use an `if` statement to check if the user's entered credentials match the predefined values.
+3. Prompt the user to enter their username and password.
+4. Display a success message if the credentials are correct or an error message if they are not.
+5. Include a limited number of login attempts.
+
+Exercise 12: BMI Calculator
+1. Write a function that calculates a person's Body Mass Index (BMI) based on their weight and height.
+2. Use `if` statements to categorize BMI values into underweight, normal weight, overweight, and obesity.
+3. Prompt the user to enter their weight (in kilograms) and height (in meters) and validate the input.
+4. Display the calculated BMI and the corresponding category.
+5. Provide BMI category descriptions.
+
+Exercise 13: Quadratic Equation Solver
+1. Create a function that solves a quadratic equation (ax^2 + bx + c = 0) for real roots.
+2. Use `if` statements to handle different cases (e.g., two real roots, one real root, no real roots).
+3. Prompt the user to enter the coefficients (a, b, c) and validate the input.
+4. Display the solutions or an appropriate message.
+5. Include explanations for the different cases.
+
+Exercise 14: ATM Cash Withdrawal
+1. Simulate an ATM cash withdrawal system.
+2. Use `if` statements to check if the requested withdrawal amount is within the account balance and ATM limits.
+3. Prompt the user to enter the withdrawal amount and validate it.
+4. Display a success message and update the account balance if the withdrawal is approved, or an error message if not.
+5. Keep track of the remaining balance.
+
+Exercise 15: Rock, Paper, Scissors Game
+1. Create a simple Rock, Paper, Scissors game.
+2. Use `if` statements to determine the winner based on user and computer choices.
+3. Prompt the user to choose Rock, Paper, or Scissors.
+4. Generate a random computer choice.
+5. Display the result of the game (win, lose, or draw) and the choices made by both the user and the computer.
+

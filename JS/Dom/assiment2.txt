@@ -1,0 +1,44 @@
+
+
+Exercise 8: Attribute Manipulation
+1. Change the source (src) attribute of an image element when a button is clicked.
+2. Check if an element with the ID "myCheckbox" is checked or unchecked and display an alert accordingly.
+
+Exercise 9: Creating and Appending Multiple Elements
+3. Create an ordered list (ol) with three list items (li) and append it to the body.
+4. Create a table with three rows and three columns and append it to a div with the ID "tableContainer".
+
+Exercise 10: Event Delegation
+5. Attach a click event listener to a parent element that listens for clicks on its child elements with the class "clickable". When a child element is clicked, display its text content in an alert.
+
+Exercise 11: Form Validation
+6. Create a form with input fields for name and email. Add validation to ensure that both fields are filled out before the form can be submitted.
+
+Exercise 12: Element Visibility
+7. Toggle the visibility of an element with the ID "toggleMe" when a button is clicked.
+
+Exercise 13: Element Position
+8. Get the position (left and top) of an element with the ID "positionMe" and display it in an alert when a button is clicked.
+
+Exercise 14: Working with Classes
+9. Add a new CSS class to an element with the ID "addClassMe".
+10. Remove a CSS class from an element with the class "removeClassFromMe".
+
+Exercise 15: Event Propagation
+11. Create nested elements (e.g., divs within divs). Attach click event listeners to both the inner and outer divs. Observe and explain the event propagation behavior when clicking on these elements.
+
+Exercise 16: Dynamically Loading Content
+12. Fetch data from an external API (e.g., JSONPlaceholder) and dynamically create and display elements based on the retrieved data.
+
+Exercise 17: Drag-and-Drop
+13. Implement a simple drag-and-drop functionality using the HTML5 Drag and Drop API. Allow users to drag elements and drop them into a designated area.
+
+Exercise 18: Image Slideshow
+14. Create an image slideshow that automatically cycles through a set of images. Users should be able to navigate between images using next and previous buttons.
+
+Exercise 19: Modal/Popup
+15. Create a modal or popup that opens and closes when a button is clicked. Customize the content inside the modal.
+
+Exercise 20: Local Storage
+16. Use the `localStorage` API to store and retrieve data (e.g., user preferences) between page visits.
+
