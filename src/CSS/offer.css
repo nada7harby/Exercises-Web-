@@ -1,0 +1,16 @@
+.offer_content{
+               text-align: center;
+               display: flex;
+               justify-content: center;
+               padding: 20px;
+}
+.offer_content h1{
+               width: 50%;
+}
+
+.offer_content .span1{
+               color: rgb(67, 130, 188);
+}
+.offer_content .span2{
+               color: red;
+}
